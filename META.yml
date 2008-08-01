@@ -1,0 +1,15 @@
+--- #YAML:1.0
+name:                Business-ISRC
+version:             0.01
+abstract:            Perl extension for manipulating International Standard Recording Code (ISRC)
+license:             ~
+author:              
+    - nakano kyohei (bonar) <bonamonchy@gmail.com>
+generated_by:        ExtUtils::MakeMaker version 6.44
+distribution_type:   module
+requires:     
+    Class::Accessor::Fast:         0.31
+    Locale::Country:               2.07
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3

@@ -1,0 +1,13 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+lib/Business/ISRC.pm
+t/00_load.t
+t/10_basic.t
+t/11_overload.t
+t/12_invalid.t
+t/20_normalize.t
+t/50_random.t
+t/98_critic.t
+META.yml                                 Module meta-data (added by MakeMaker)
